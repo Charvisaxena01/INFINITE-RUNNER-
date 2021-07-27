@@ -66,7 +66,7 @@ function setup() {
 
 
 
-  gameOver.scale = 0.5;
+  gameOver.scale = 0.3;
   restart.scale = 0.1;
 
   gameOver.visible = false;
